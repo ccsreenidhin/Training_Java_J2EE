@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 3, 2017, 1:59:11 PM
+    Author     : cc4
+*/
+
+#t1{background-color:blue; width:1400px; height:20px; position:fixed; top:0px;}
+#t2{color:BLUE; position:fixed; left:335PX; top:40PX;}
+#t3{color:BLUE; position:FIXED; right:265PX; top:50PX; }
+#t4{color:BLUE; position:FIXED; left:330PX; top:80PX; }
+#t5{color:white; background-color:blue; width:800px; position:fixed; left:400px; top:180px; height:40px;}
+#t6{position:FIXED; left:435PX; top:510PX; }
+#t7{color:white; background-color:blue; position:fixed; left:100px; top:180px; width:200px; height:20px;}
+#t8{ position:fixed; top:200px; left:100px;}
+#t9{color:white; background-color:blue; position:fixed; left:100px; top:400px; width:200px; height:20px;}
+#t10{position:fixed; top:420px; left:100px;}
+#srcd{background-color:white; position:fixed; top:235px; left:420px; width:800px; height:500px; visibility:hidden;}
+#sa{background-color:white; position:fixed; top:235px; left:420px; width:800px; height:500px; visibility:hidden;}
+#bk{background-color:white; position:fixed; top:235px; left:420px; width:800px; height:500px; visibility:hidden;}
+#td{background-color:white; position:fixed; top:235px; left:420px; width:800px; height:500px; visibility:hidden;}
+#t15{background-color:white; position:fixed; top:235px; left:420px; width:800px; height:500px; visibility:hidden;}
+#a:hover{
+  color:black;  
+}
+#b:hover{
+   color:black;  
+}
+#c:hover{
+    color:black; 
+}
+#d:hover{
+    color:black; 
+}
+#e:hover{
+    color:black; 
+}
+#dn1:hover{
+    color:red; 
+}
